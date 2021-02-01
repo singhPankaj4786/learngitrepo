@@ -13,6 +13,8 @@ public class pattern2 {
 			}System.out.println();
 		}
     System.out.println("Done withlopp ");
+ System.out.println("Done  ");
+
 	}
 
 }
